@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Charles Henderson Butterworth
-- 👀 I’m interested in Python, Terraform, AWS Cloud based solutions, and documentation for lay-people.
-- 🌱 I’m currently learning Python, Terraform, and anything I can get my hands on.
+- 👀 I’m interested in Python, Terraform, AWS Cloud based solutions.
+- 🌱 I’m currently learning AWS, Python, Terraform, and more.
 - 💞️ I’m looking to collaborate on whatever!
 - 📫 How to reach me ... https://www.linkedin.com/in/charles-h-butterworth/
 
